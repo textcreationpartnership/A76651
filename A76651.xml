@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantique tiré des pseaumes, paraphrasez en vers par Mr. Godeau evesque de grasse et de vence Dont, sans presque aucun changement, on fait une application assez juste à la decouverte miraculeuse de l'exécrable conjuration, faite contre ta vie de Guillaume III. Roy de la Grand' Bretagne.</title>
+            <title>Bible. O.T. Psalms. French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76651</idno>
+            <idno type="STC">Wing B2707D</idno>
+            <idno type="STC">ESTC R230158</idno>
+            <idno type="EEBO-CITATION">99896202</idno>
+            <idno type="PROQUEST">99896202</idno>
+            <idno type="VID">153831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2382:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cantique tiré des pseaumes, paraphrasez en vers par Mr. Godeau evesque de grasse et de vence Dont, sans presque aucun changement, on fait une application assez juste à la decouverte miraculeuse de l'exécrable conjuration, faite contre ta vie de Guillaume III. Roy de la Grand' Bretagne.</title>
+                  <title>Bible. O.T. Psalms. French.</title>
+                  <author>Godeau, Mr., fl. ca. 1690.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Chez B. Griffin, pour Jean Cailloue marchand libraire, demeurant dans le Strand, au coin de Beauford Buildings,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing (CD-ROM edition) reports date of publication as [169-?].</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms --  Paraphrases, French --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:153831:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153831:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153831:2"/>
+            <p>
+               <figure>
+                  <p>La Bouche des enfants Chantera Ce Miracle</p>
+                  <byline>P. Berchet in et ſculp</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153831:2" rendition="simple:additions"/>
+            <p>CANTIQUE TIRÉ DES PSEAUMES, PARAPHRASEZ EN VERS PAR M<hi rend="sup">R.</hi> GODEAU EVESQUE DE GRASSE ET DE VENCE.</p>
+            <p>Dont, ſans preſque aucun changement, on fait une Application aſſez juſte à la Decouverte miraculeuſe de l'exécrable Con<g ref="char:EOLhyphen"/>juration, faite contre la vie de <hi>GUILLAUME III.</hi> Roy de la Grand' Bretagne.</p>
+            <p>A LONDRES, Chez <hi>B. Griffin,</hi> pour JEAN CAILLOUÉ. Marchand Libraire, demeurant dans le <hi>Strand,</hi> au coin de <hi>Beauford Buildings.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Psalms">
+            <pb facs="tcp:153831:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:153831:3"/>
+            <head>CANTIQUE TIRÉ DES PSEAUMES.</head>
+            <div n="2" type="Psalm">
+               <head>Pſeaume <hi>2.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">P</seg>Ourquoy tant de Sujets rebelles,</l>
+                  <l>Sont=ils de fureur ſi troublez?</l>
+                  <l>D'où vient qu'ils ſe ſont aſſemblez?</l>
+                  <l>Quels ſont leurs Complots infidelles?</l>
+                  <l>Et quel exécrable deſſein,</l>
+                  <l>Leur voi=je rouler dans le ſein?</l>
+               </lg>
+            </div>
+            <div n="40" type="Psalm">
+               <head>Pſeaume <hi>40.</hi>
+               </head>
+               <lg>
+                  <l>Ces Miniſtres cruels d'une rage inhumaine,</l>
+                  <l>Contre l'Oint du Seigneur, pleins d'une injuſte haine,</l>
+                  <l>Veulent tous à l'envi la lui faire ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir;</l>
+                  <pb n="4" facs="tcp:153831:4"/>
+                  <l>C'en eſt fait, diſent-ils, il perdra la lumiere,</l>
+                  <l>Du coup qui de ſes jours finira la Carriére,</l>
+                  <l>Rien ne le ſçauroit garantir.</l>
+               </lg>
+            </div>
+            <div n="3" type="Psalm">
+               <head>Pſeaume <hi>3.</hi>
+               </head>
+               <lg>
+                  <l>Pourquoi differons nous, ſa deffaite eſt certaine,</l>
+                  <l>Diſent ces inhumains;</l>
+                  <l>S'il eſpere en ſon Dieu, ſon eſperance eſt vaine,</l>
+                  <l>Il ne peut le ſauver de nos puiſſantes mains.</l>
+               </lg>
+            </div>
+            <div n="93" type="Psalm">
+               <head>Pſeaume <hi>93.</hi>
+               </head>
+               <lg>
+                  <l>Ce Dieu, d'un ton moqueur ajoútent ces Barbares,</l>
+                  <l>Ne ſçaura point nôtre deſſein,</l>
+                  <l>Lui dont tout l'Univers dit des choſes ſi rares,</l>
+                  <l>Ne peut lire dans nôtre ſein.</l>
+               </lg>
+            </div>
+            <div n="138" type="Psalm">
+               <head>Pſeaume <hi>138.</hi>
+               </head>
+               <lg>
+                  <l>Que tardes-tu, Seigneur, à lancer le Tonnerre</l>
+                  <l>Sur ces Hommes de ſang, ces Monſtres de la Terre,</l>
+                  <l>Qui penſent qu'a tes Loix ils ne ſont pas ſoumis;</l>
+                  <l>Que de leurs vains Projets tu n'as pas connoiſſance,</l>
+                  <pb n="5" facs="tcp:153831:4"/>
+                  <l>Qu'ils feront, malgré toi, tomber ſous leur puiſſance</l>
+                  <l>Un Roi qu'on te voit mettre au rang de tes Amis.</l>
+               </lg>
+            </div>
+            <div n="5" type="Psalm">
+               <head>Pſeaume <hi>5.</hi>
+               </head>
+               <lg>
+                  <l>Seigneur, ne laiſſe pas cette audace impunie;</l>
+                  <l>Egale leur ſupplice à leur temerité;</l>
+                  <l>De leurs coeurs la crainte eſt bannie,</l>
+                  <l>Bannis pour eux l'amour de ton coeur irrité;</l>
+                  <l>Diſſipe les projets de leur rage inſenſée,</l>
+                  <l>Et que tout ſoit contraire à leur folle penſée.</l>
+               </lg>
+            </div>
+            <div n="11" type="Psalm">
+               <head>Pſeaume <hi>11.</hi>
+               </head>
+               <lg>
+                  <l>Lors que ton Celeſte pouvoir</l>
+                  <l>Eléve une juſte Perſonne</l>
+                  <l>A la ſplendeur de la Couronne,</l>
+                  <l>Les Méchans ont peine à le voir;</l>
+                  <l>Ils rodent à l'entour, &amp; leurs mains ſacriléges</l>
+                  <l>Tous les jours lui dreſſent des piéges.</l>
+               </lg>
+            </div>
+            <div n="67" type="Psalm">
+               <head>Pſeaume <hi>67.</hi>
+               </head>
+               <lg>
+                  <l>Que de ces malheureux la force conſumée,</l>
+                  <l>En ſon dernier deſtin reſſemble à la fumée,</l>
+                  <pb n="6" facs="tcp:153831:5"/>
+                  <l>Qui ſe diſſipe en s'élevant;</l>
+                  <l>Que leur vain appareil fonde devant ton ire,</l>
+                  <l>Comme devant le feu l'on voit fondre la Cire,</l>
+                  <l>Et que leur fol eſpoir n'enfante que du vent.</l>
+               </lg>
+            </div>
+            <div n="20" type="Psalm">
+               <head>Pſeaume <hi>20.</hi>
+               </head>
+               <lg>
+                  <l>Accours, ô Monarque du Monde,</l>
+                  <l>Défens un Prince qui ne fonde,</l>
+                  <l>Sa Gloire &amp; ſon Salut qu'en ta ſeule Bonté:</l>
+                  <l>Et dans tes mains prenant ton Foudre,</l>
+                  <l>Hâte toi de réduire en poudre,</l>
+                  <l>Des Perfides vendus à toute iniquité.</l>
+               </lg>
+            </div>
+            <div n="49" type="Psalm">
+               <head>Pſeaume <hi>49.</hi>
+               </head>
+               <lg>
+                  <l>Tremblez, Méchans, tremblez devant le Roi des Rois,</l>
+                  <l>Il parle, il fait oüir ſa redoutable Voix</l>
+                  <l>D'où ſe leve le jour juſqu'où le jour ſe couche;</l>
+                  <l>Du Ciel, ſéjour de ſa Grandeur,</l>
+                  <l>Il part éclatant de Splendeur;</l>
+                  <l>Méchans, vôtre deſtin va ſortir de ſa Bouche.</l>
+               </lg>
+            </div>
+            <div n="17" type="Psalm">
+               <pb n="7" facs="tcp:153831:5"/>
+               <head>Pſeaume <hi>17.</hi>
+               </head>
+               <lg>
+                  <l>Voyez les forces qu'il aſſemble;</l>
+                  <l>Ces hauts Monts dont l'orgueil s'éléve juſqu'aux Cieux,</l>
+                  <l>Agitent leur front glorieux</l>
+                  <l>Et juſqu'au ſondemens toute la Terre tremble.</l>
+               </lg>
+            </div>
+            <div n="17" type="Psalm">
+               <head>Pſeaume <hi>17.</hi>
+               </head>
+               <lg>
+                  <l>De couroux ſon Viſage ſume.</l>
+                  <l>De ſes Yeux irritez ſort un feu devorant,</l>
+                  <l>Qui court comme un affreux torrent,</l>
+                  <l>Et tout ce qu'il rencontre, auſſitôt il allume.</l>
+               </lg>
+            </div>
+            <div n="93" type="Psalm">
+               <head>Pſeaume <hi>93.</hi>
+               </head>
+               <lg>
+                  <l>Méchans, dit-il, je lis dans vos ames perfides,</l>
+                  <l>Je vois plus clairement que vous</l>
+                  <l>Ces brutales fureurs, ces deſſeins parricides,</l>
+                  <l>Dont vous provoquez mon couroux.</l>
+               </lg>
+            </div>
+            <div n="52" type="Psalm">
+               <head>Pſeaume <hi>52.</hi>
+               </head>
+               <lg>
+                  <l>Mais je diſſiperai vos projets tiranniques,</l>
+                  <pb n="8" facs="tcp:153831:6"/>
+                  <l>Comme le vent diſſipe une foible vapeur;</l>
+                  <l>Tremblez, Méchans, tremblez de peur,</l>
+                  <l>Je veux rendre à la fin vos trahiſons publiques.</l>
+               </lg>
+            </div>
+            <div n="4, 111" type="Psalm">
+               <head>Pſeaume <hi>4.</hi> &amp; <hi>111.</hi>
+               </head>
+               <lg>
+                  <l>Aveugles qui penſant que je ne vous vois pas,</l>
+                  <l>Faites de vains projets &amp; d'inutilles pas,</l>
+                  <l>Pour ôter à mon Oint &amp; le Sceptre &amp; la Vie;</l>
+                  <l>Son coeur que je ſoutiens ne peut s'en étonner:</l>
+                  <l>Vos Piéges, vos Complots, vôtre Orgueil, vôtre Envie,</l>
+                  <l>N'ont ſervi qu'à le couronner.</l>
+               </lg>
+            </div>
+            <div n="128" type="Psalm">
+               <head>Pſeaume <hi>128.</hi>
+               </head>
+               <lg>
+                  <l>Ouy, ceux qui te faiſoient la guerre,</l>
+                  <l>O Roy que j'ai choiſi, briſez comme du verre,</l>
+                  <l>Seront de frayeur éperdus;</l>
+                  <l>Et par une vengeance promte</l>
+                  <l>Tu les verras cheoir avec honte</l>
+                  <l>Aux piéges qu'ils t'avoient tendus.</l>
+               </lg>
+            </div>
+            <div n="62" type="Psalm">
+               <pb n="9" facs="tcp:153831:6"/>
+               <head>Pſeaume <hi>62.</hi>
+               </head>
+               <lg>
+                  <l>Ces lâches Aſſaſſins, qu'aveugle leur malice,</l>
+                  <l>Conſpirent ton trépas en vain,</l>
+                  <l>Comme j'ai confondu leur Projet inhumain</l>
+                  <l>Je ferai ſur leur teſte éclater ma Juſtice;</l>
+                  <l>Et j'abîmerai leur orgueil</l>
+                  <l>Dans la profonde nuit d'un infame cercueil.</l>
+               </lg>
+            </div>
+            <div n="62" type="Psalm">
+               <head>Pſeaume <hi>62.</hi>
+               </head>
+               <lg>
+                  <l>Le fer pour te venger moiſſonnera leur vie,</l>
+                  <l>On verra quand ils ſeront morts</l>
+                  <l>Les Corbeaux, les Vautours, acharnez ſur leurs corps,</l>
+                  <l>Ronger avec fureur ceux que rongeoit l'envie;</l>
+                  <l>Et ceux qui ne periront pas,</l>
+                  <l>Sentiront des remors pires que le trépas.</l>
+               </lg>
+            </div>
+            <div n="22" type="Psalm">
+               <head>Pſeaume <hi>22.</hi>
+               </head>
+               <lg>
+                  <l>Que déſormais rien ne t'étonne,</l>
+                  <l>Ma main deſſus ta Teſte affermit ta Couronne,</l>
+                  <pb n="10" facs="tcp:153831:7"/>
+                  <l>Lors que tu dormiras je veillerai pour toi;</l>
+                  <l>Je ſerai ta ſecrette Garde,</l>
+                  <l>Et je veux que l'on te regarde,</l>
+                  <l>Sur le Trône où tu ſiéds, comme placé par moi.</l>
+               </lg>
+            </div>
+            <div n="20" type="Psalm">
+               <head>Pſeaume <hi>20.</hi>
+               </head>
+               <lg>
+                  <l>Je veux te donner des années</l>
+                  <l>Si nobles &amp; ſi fortunées.</l>
+                  <l>Je veux rendre en tous lieux tes faits ſi triomſans;</l>
+                  <l>Que tes Illuſtres Avantures</l>
+                  <l>Seront dans les Races futures</l>
+                  <l>Le ſouhait que les Rois ſeront pour leurs Enſans.</l>
+               </lg>
+            </div>
+            <div n="117" type="Psalm">
+               <head>Pſeaume <hi>117.</hi>
+               </head>
+               <lg>
+                  <l>O! quel illuſtre effet de la faveur puiſſante!</l>
+                  <l>Du Roi des Rois, du Dieu des Dieux;</l>
+                  <l>Ce Miracle ébloüit nos yeux,</l>
+                  <l>Ce bienfait paſſe nôtre attente.</l>
+               </lg>
+            </div>
+            <div n="33" type="Psalm">
+               <pb n="11" facs="tcp:153831:7"/>
+               <head>Pſeaume <hi>33.</hi>
+               </head>
+               <lg>
+                  <l>Dans nôtre Auguſte Roi, Mortels venez tous voir,</l>
+                  <l>Comme dans le Criſtal d'un fidelle Miroir.</l>
+                  <l>Les merveilleux effets de ſa bonté ſupréme:</l>
+                  <l>Entre les Rois, heureux celui</l>
+                  <l>Qui met en Dieu ſeul ſon appui,</l>
+                  <l>Au lieu de le mettre en ſoi meme.</l>
+               </lg>
+            </div>
+            <div n="126" type="Psalm">
+               <head>Pſeaume <hi>126.</hi>
+               </head>
+               <lg>
+                  <l>En vain une riche Cité</l>
+                  <l>Voit veiller pour ſa ſeureté</l>
+                  <l>A l'entour de ſes murs mille Gardes fidelles;</l>
+                  <l>Si Dieu ne la veut conſerver,</l>
+                  <l>La valeur des Soldats, le ſoin des Sentinelles,</l>
+                  <l>Du plus foible ennemi ne la peuvent ſauver.</l>
+               </lg>
+            </div>
+            <div n="97" type="Psalm">
+               <head>Pſeaume <hi>97.</hi>
+               </head>
+               <lg>
+                  <l>Oüi, Grand Dieu, tout l'honneur de cette Delivrance</l>
+                  <l>A tes mains eſt deu ſeulement,</l>
+                  <pb n="12" facs="tcp:153831:8"/>
+                  <l>Ton bras n'a fait qu'uſer de ſa Toute-puiſſance,</l>
+                  <l>Pour cét illuſtre Evenement.</l>
+               </lg>
+            </div>
+            <div n="123" type="Psalm">
+               <head>Pſeaume <hi>123.</hi>
+               </head>
+               <lg>
+                  <l>Beni ſoit le Seigneur qui calme cét Orage,</l>
+                  <l>Qui trompe les deſſeins de ces Audacieux,</l>
+                  <l>Et n'abandonne pas à leur brutale rage</l>
+                  <l>Le Roi dont il a fait un choix ſi glorieux.</l>
+               </lg>
+               <trailer>FIN.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
